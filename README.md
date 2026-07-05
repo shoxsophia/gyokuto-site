@@ -29,4 +29,4 @@ Gyokuto株式会社の静的コーポレートサイトです。HTML / CSS / Jav
 
 - `company.html` の所在地、法人番号、代表電話番号を必要に応じて確認します。
 - `contact.html` のフォームは外部フォーム送信サービスを経由して、入力内容を受付メールアドレスへ送る構成です。公開前に一度テスト送信し、送信先メールアドレス側で有効化メールが届いた場合は承認してください。
-- 独自ドメイン `gyokuto-inc.com` を使う場合は、GitHub Pages側のCustom domain設定とDNS設定を行ってください。
+- 独自ドメイン `corp.gyokuto-inc.com` を使う場合は、GitHub Pages側のCustom domain設定とDNS設定を行ってください。
